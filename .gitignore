@@ -1,0 +1,32 @@
+./node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.parcel-cache/
+.next/
+out/
+coverage/
+
+
+#env
+.env/
